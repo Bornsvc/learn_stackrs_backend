@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>WebSocket Client</title>
+</head>
+<body>
+  <input id="messageInput" type="text" />
+  <button onclick="sendMessage()">Send</button>
+  <script src="https://cdn.socket.io/4.0.0/socket.io.min.js"></script>
+  <script>
+    const socket = io('http://localhost:3000');
+    
+    socket.on('msgToClient', (message) => {
+      console.log('Message from server:', message);
+    });
+
+    function sendMessage() {
+      const message = document.getElementById('messageInput').value;
+      socket.emit('msgToServer', message);
+    }
+  </script>
+</body>
+</html>

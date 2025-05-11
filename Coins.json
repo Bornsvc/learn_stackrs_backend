@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Bitcoin",
+    "symbol": "₿",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/btc.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/btc.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/btc.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/btc.webp",
+    "markets": 1911,
+    "allTimeHighUSD": 108743.84670524715,
+    "code": "BTC",
+    "rate": 103838.95784084417,
+    "volume": 28469274221,
+    "delta": {
+      "hour": 1.0005,
+      "day": 1.0058,
+      "week": 1.0785,
+      "month": 1.274,
+      "quarter": 1.0701,
+      "year": 1.6465
+    }
+  },
+  {
+    "name": "Ethereum",
+    "symbol": "Ξ",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/eth.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/eth.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/eth.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/eth.webp",
+    "markets": 6391,
+    "allTimeHighUSD": 4861.28870081089,
+    "code": "ETH",
+    "rate": 2421.019334684758,
+    "volume": 27017025220,
+    "delta": {
+      "hour": 1.0081,
+      "day": 1.0343,
+      "week": 1.3226,
+      "month": 1.523,
+      "quarter": 0.9069,
+      "year": 0.7981
+    }
+  },
+  {
+    "name": "Tether",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/usdt.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/usdt.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/usdt.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/usdt.webp",
+    "markets": 21050,
+    "allTimeHighUSD": 1.08372533074166,
+    "code": "USDT",
+    "rate": 1.000026173612463,
+    "volume": 99035024904,
+    "delta": {
+      "hour": 1,
+      "day": 0.9995,
+      "week": 0.999,
+      "month": 1.0032,
+      "quarter": 0.9987,
+      "year": 0.9997
+    }
+  },
+  {
+    "name": "XRP",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/xrp.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xrp.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/xrp.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xrp.webp",
+    "markets": 393,
+    "allTimeHighUSD": 3.91546307780967,
+    "code": "XRP",
+    "rate": 2.41286116314203,
+    "volume": 4040409612,
+    "delta": {
+      "hour": 1.0106,
+      "day": 1.0107,
+      "week": 1.097,
+      "month": 1.2116,
+      "quarter": 0.9766,
+      "year": 4.6824
+    }
+  },
+  {
+    "name": "BNB",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/bnb.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/bnb.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.webp",
+    "markets": 4205,
+    "allTimeHighUSD": 795.3440808257874,
+    "code": "BNB",
+    "rate": 660.7899823434402,
+    "volume": 2063351371,
+    "delta": {
+      "hour": 0.9989,
+      "day": 1.0382,
+      "week": 1.1053,
+      "month": 1.1543,
+      "quarter": 1.0318,
+      "year": 1.1115
+    }
+  }
+]
